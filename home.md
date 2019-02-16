@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: KB Wiki -->
+<!-- SUBTITLE: KB IT기술혁신센터 Wiki page -->
 
-KB IT기술혁신센터 Wiki page
+
 # KB IT기술혁신센터 Wiki 
